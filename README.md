@@ -28,6 +28,6 @@ Model Training: Train a baseline Random Forest, then perform hyperparameter tuni
 Model Evaluation: Evaluate train and test sets using MAE, RMSE, and R² metrics. Test metrics are reliable due to internal CV during hyperparameter tuning.
 Model Saving: Save the final tuned model using joblib for future predictions.
 
-built by:
--Milhan Zahid
+**built by:**
+Milhan Zahid
 
