@@ -1,3 +1,5 @@
+## FLOOD MEDICAL AID PREDICTOR: ##
+
 This project uses historical flood data (1970–2012) to predict the number of medical camps required in affected regions based on socio-demographic and damage-related features. The model helps decision-makers allocate resources effectively during disaster relief operations.
 
 **Objective:**
